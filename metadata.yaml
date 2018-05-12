@@ -1,0 +1,40 @@
+_repo: The-Californians_21903
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Horn, Gertrude Franklin
+    - Lin, Frank
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: Title; Contents; BOOK I; Chapter I; Chapter II; Chapter III; Chapter
+  IV; Chapter V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter
+  XI; Chapter XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII;
+  Chapter XVIII; Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII;
+  Chapter XXIV; Chapter XXV; Chapter XXVI; Chapter XXVII; Chapter XXVIII; Chapter
+  XXIX; Chapter XXX; BOOK II; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter
+  V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
+  XII; Chapter XIII; Chapter XIV
+gutenberg_issued: '2007-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'California -- Fiction'
+- !lcc 'PS'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- !lcsh 'Upper class -- Fiction'
+title: The Californians
+url: http://www.gutenberg.org/ebooks/21903
