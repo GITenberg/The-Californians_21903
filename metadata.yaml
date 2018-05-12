@@ -22,6 +22,8 @@ description: Title; Contents; BOOK I; Chapter I; Chapter II; Chapter III; Chapte
   XXIX; Chapter XXX; BOOK II; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter
   V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
   XII; Chapter XIII; Chapter XIV
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21903#The-Californians
 gutenberg_issued: '2007-06-22'
 gutenberg_type: Text
 identifiers:
